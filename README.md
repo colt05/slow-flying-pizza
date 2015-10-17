@@ -1,2 +1,2 @@
 A fork of slow-flying-pizza with clip art instead of ascii art.
-Thanks to Google Images and [pixabay.](https://pixabay.com/en/pizza-slice-food-pizzas-junk-food-30579/)
+Thanks to Google Images, [pixabay](https://pixabay.com/en/pizza-slice-food-pizzas-junk-food-30579/) [ 2,](https://pixabay.com/en/pizza-slice-cheese-food-italian-155771/) and Google Chrome. Also thanks to Notepad++, W3Schools and [this] (http://stackoverflow.com/questions/11722400/programmatically-change-the-src-of-an-img-tag) StackOverflow page for extra code.
